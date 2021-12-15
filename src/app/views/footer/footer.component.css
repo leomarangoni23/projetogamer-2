@@ -1,0 +1,23 @@
+mat-toolbar {
+    background-color: #000;
+    color: #fff;
+    height: 140px;
+}
+
+mat-toolbar-row {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo-footer {
+    width: 100px;
+    height: 100px;
+}
+
+.btn-menu {
+    text-decoration: none;
+    color: #fff;
+    margin: 0px 10px;
+}
